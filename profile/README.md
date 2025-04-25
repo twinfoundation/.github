@@ -11,11 +11,11 @@ To install the code for all the framework repositories, refer to the [Workspace 
 
 ## Applications
 
-### Workbench Server [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/next/apps/workbench-server)]
+### Workbench Server [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/main/apps/workbench-server)]
 
 This API server demonstrates how to use the framework components to build a REST server.
 
-### Workbench UI [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/next/apps/workbench-ui)]
+### Workbench UI [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/main/apps/workbench-ui)]
 
 This UI, built with Svelte, demonstrates how to communicate with the Workbench Server.
 
