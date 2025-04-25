@@ -3,7 +3,7 @@
 TWIN
 </h1>
 
-Welcome to the TWIN repository, to learn more about the TWIN foundation visit [https://www.twin.org/](https://www.twin.org/).
+Welcome to the TWIN repository. To learn more about the TWIN foundation, visit [https://www.twin.org/](https://www.twin.org/).
 
 Documentation for development using TWIN can be found at [https://twindev.org/](https://twindev.org/)
 
@@ -11,11 +11,11 @@ To install the code for all the framework repositories, refer to the [Workspace 
 
 ## Applications
 
-### Workbench Server [[Repo](https://github.com/twinfoundation/workbench)]
+### Workbench Server [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/main/apps/workbench-server)]
 
 This API server demonstrates how to use the framework components to build a REST server.
 
-### Workbench UI [[Repo](https://github.com/twinfoundation/workbench)]
+### Workbench UI [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/main/apps/workbench-ui)]
 
 This UI, built with Svelte, demonstrates how to communicate with the Workbench Server.
 
