@@ -2,22 +2,31 @@
 <img src="logo.svg" width="32px" height="32px">
 TWIN
 </h1>
+<div align="center">
+    <img src="./banner.jpg" alt="Banner">
+</div>
+<br />
+Welcome to the TWIN development repository, to learn more about the TWIN foundation visit [https://www.twin.org/](https://www.twin.org/).
 
-Welcome to the TWIN repository. To learn more about the TWIN foundation, visit [https://www.twin.org/](https://www.twin.org/).
+## Documentation
 
-Documentation for development using TWIN can be found at [https://twindev.org/](https://twindev.org/)
+Documentation for development using TWIN can be found at [https://twindev.org/](https://twindev.org/) the source for this site is in the following [[Repo](https://github.com/twinfoundation/docs)]
 
 To install the code for all the framework repositories, refer to the [Workspace repository](https://github.com/twinfoundation/workspace) which includes all the other repositories as submodules. Follow the instructions in the repository to learn how to use it.
 
 ## Applications
 
-### Workbench Server [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/main/apps/workbench-server)]
+### TWIN Node [[Repo](https://github.com/twinfoundation/node/tree/next/apps/node)]
+
+This API server is the core component for running as part of the TWIN eco-system.
+
+### Playground UI [[Repo](https://github.com/twinfoundation/playground/tree/next/apps/playground-ui)]
+
+This UI demonstrates some of the core features of the TWIN framework, it requires a Playground Node to serve the API.
+
+### Playground Node [[Repo](https://github.com/twinfoundation/playground/tree/next/apps/playground-node)]
 
 This API server demonstrates how to use the framework components to build a REST server.
-
-### Workbench UI [[Repo's app folder](https://github.com/twinfoundation/workbench/tree/main/apps/workbench-ui)]
-
-This UI, built with Svelte, demonstrates how to communicate with the Workbench Server.
 
 ## Schemas [[Repo](https://github.com/twinfoundation/schema)]
 
