@@ -16,7 +16,7 @@ To install the code for all the framework repositories, refer to the [Workspace 
 
 ## Applications
 
-### TWIN Node [[Repo](https://github.com/twinfoundation/playground/tree/next/apps/twin-node)]
+### TWIN Node [[Repo](https://github.com/twinfoundation/node/tree/next/apps/node)]
 
 This API server is the core component for running as part of the TWIN eco-system.
 
