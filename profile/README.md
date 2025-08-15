@@ -14,6 +14,8 @@ Documentation for development using TWIN can be found at [https://twindev.org/](
 
 To install the code for all the framework repositories, refer to the [Workspace repository](https://github.com/twinfoundation/workspace) which includes all the other repositories as submodules. Follow the instructions in the repository to learn how to use it.
 
+To contribute to TWIN development you can review and submit requests in the [RFCs repository](https://github.com/twinfoundation/rfc).
+
 ## Applications
 
 ### TWIN Node [[Repo](https://github.com/twinfoundation/node/tree/next/apps/node)]
