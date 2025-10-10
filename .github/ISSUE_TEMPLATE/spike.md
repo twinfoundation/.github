@@ -1,7 +1,7 @@
 ---
 name: 💡 Spike
 about: Research and investigate a technical topic or approach
-title: ''
+title: 'spike: '
 labels: 'spike, research'
 assignees: ''
 ---
