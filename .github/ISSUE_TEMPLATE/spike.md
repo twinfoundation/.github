@@ -2,7 +2,7 @@
 name: 💡 Spike
 about: Research and investigate a technical topic or approach
 title: 'spike: '
-labels: 'spike'
+labels: 'spike,needs-triage'
 assignees: ''
 ---
 
