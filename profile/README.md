@@ -10,8 +10,8 @@ Welcome to the TWIN development repository, to learn more about the TWIN foundat
 
 ## Documentation
 
-Documentation for development using TWIN can be found at [https://twindev.org/](https://twindev.org/) the source for this site is in the following [[Repo](https://github.com/twinfoundation/docs)]
+Documentation for development using TWIN can be found at [https://twindev.org/](https://twindev.org/)
 
-## Schemas [[Repo](https://github.com/twinfoundation/schema)]
+## Schemas
 
 The JSON and JSON-LD schemas for the data types in the various packages are available at [https://schema.twindev.org](https://schema.twindev.org)
